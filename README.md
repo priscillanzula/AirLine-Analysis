@@ -69,12 +69,13 @@ Explore the dashboard using filters to drill into specific airlines, airports, o
 
 Optionally replace data sources with your own for custom analysis
 
-🔧 Requirements
+
+## 🔧 Requirements
 Power BI Desktop (latest version recommended)
 
 Basic understanding of data modeling and airline performance metrics
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 1. Geographic map visualizations for regional delay heatmaps
 
@@ -84,7 +85,7 @@ Basic understanding of data modeling and airline performance metrics
 
 4. Deeper analysis into passenger impact and compensation
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 Built as a personal project to demonstrate Power BI skills, storytelling with data, and domain knowledge in aviation analytics.
 Inspired by real-world airline data and industry reporting needs.
