@@ -62,7 +62,7 @@ Built in **Power BI**, the dashboard leverages:
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/yourusername/airline-delay-dashboard.git
+   https://github.com/priscillanzula/AirLine-Analysis.git
 Open the .pbix file using Power BI Desktop
 
 Explore the dashboard using filters to drill into specific airlines, airports, or months
