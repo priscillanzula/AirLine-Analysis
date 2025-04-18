@@ -4,6 +4,7 @@
 This interactive Power BI dashboard delivers deep insights into U.S. domestic airline operations, focusing on flight **delays**, **cancellations**, and **diversions**. With powerful filters and dynamic visuals, users can explore delay patterns, identify high-risk airports, and compare airline performance metrics over time.
 
 ---
+![Airline Analysis](https://github.com/user-attachments/assets/f7fef3c1-37d8-4bb8-bb1d-3aeea330aa27)
 
 ## 🔍 Dashboard Highlights
 
