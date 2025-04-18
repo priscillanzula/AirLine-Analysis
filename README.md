@@ -75,22 +75,21 @@ Power BI Desktop (latest version recommended)
 Basic understanding of data modeling and airline performance metrics
 
 🔮 Future Enhancements
-Geographic map visualizations for regional delay heatmaps
 
-Predictive modeling for expected delay risk
+1. Geographic map visualizations for regional delay heatmaps
 
-Integration with real-time or near-real-time flight data
+2. Predictive modeling for expected delay risk
 
-Deeper analysis into passenger impact and compensation
+3. Integration with real-time or near-real-time flight data
+
+4. Deeper analysis into passenger impact and compensation
 
 🙌 Acknowledgments
+
 Built as a personal project to demonstrate Power BI skills, storytelling with data, and domain knowledge in aviation analytics.
 Inspired by real-world airline data and industry reporting needs.
 
-📬 Contact
-GitHub: @yourusername
 
-LinkedIn: Your Name
 
 📄 License
 This project is licensed under the MIT License.
